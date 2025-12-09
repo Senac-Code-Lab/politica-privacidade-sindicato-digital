@@ -6,7 +6,7 @@ A página é publicada por meio do **GitHub Pages** e atende às exigências da 
 ## 📄 Acesso ao documento
 A Política de Privacidade pode ser acessada em:
 
-**https://SEU-USUARIO.github.io/politica-privacidade-sindicato**  
+**https://senac-code-lab.github.io/politica-privacidade-sindicato-digital/**  
 
 ## 📱 Sobre o aplicativo
 O aplicativo Sindicato Digital oferece acesso a documentos, taxas associativas, benefícios, convênios, informações institucionais e demais serviços fornecidos pelo Sindivarejo Mossoró.
