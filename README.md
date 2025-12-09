@@ -1,0 +1,1 @@
+# politica-privacidade-sindicato-digital
